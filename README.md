@@ -1,16 +1,9 @@
-# habitapp
+# Habit App Onboarding Screen
 
-A new Flutter project.
+This is a tutorial project in which the leverage of a flutter package is displayed in order to create intriguing and interactive onboarding screens for the app.
 
-## Getting Started
+## DEMO OF THE APP
+Youtube: https://youtu.be/KvnI6SyCsT4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Full Tutorial can be found at
+Medium: https://medium.com/@krishanw30/tutorial-to-create-great-onboarding-pages-in-flutter-apps-d1198c81e0ff
